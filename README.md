@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" alt="Starry Sky"/>
-
 # ✨ It's me, Marcelle 💜 ✨
 
 ### Computer Science Student • Front-End Enthusiast
